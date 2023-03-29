@@ -1,3 +1,0 @@
-/home/epicman/Desktop/projects/TrajectorySimulator/build/CMakeFiles/trajectory.dir
-/home/epicman/Desktop/projects/TrajectorySimulator/build/CMakeFiles/edit_cache.dir
-/home/epicman/Desktop/projects/TrajectorySimulator/build/CMakeFiles/rebuild_cache.dir
