@@ -10,4 +10,4 @@ A simple C++ program to simulate projectile motion or trajectory made using SFML
 
 Note:- SFML must be installed and configured correctly in order to run this program.
 
-See preview at screenshot.png
+See preview in the video
